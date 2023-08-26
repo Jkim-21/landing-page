@@ -2,7 +2,7 @@
 We are creating an entire web page from a design provided by The Odin Project based on 
 the HTML & CSS skills we've learned so far. 
 
-Sources/Credit for Images:
+Sources/Credit for Images:  
 landscape.jpg  
 Jahoo Clouseau - https://www.instagram.com/jahooclouseau/
 
